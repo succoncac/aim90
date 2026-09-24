@@ -1,0 +1,6 @@
+{
+  "name": "AI",
+  "description": "Ứng dụng AI Workspace đa mô hình, hỗ trợ cấu hình API key cá nhân và tương tác ngôn ngữ chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

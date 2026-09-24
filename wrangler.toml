@@ -1,0 +1,9 @@
+name = "aim90"
+compatibility_date = "2026-09-21"
+
+[build]
+command = "npm run build"
+
+[assets]
+directory = "dist"
+fallback_document = "index.html"
